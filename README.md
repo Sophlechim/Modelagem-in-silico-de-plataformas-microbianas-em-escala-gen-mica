@@ -1,1 +1,1 @@
-# Modelagem-in-silico-de-plataformas-microbianas-em-escala-gen-mica
+# Modelagem <i>in silico</i> de plataformas microbianas em escala genômica
